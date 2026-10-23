@@ -2,10 +2,10 @@
 // then replace every placeholder below with your Firebase web-app config values.
 // Never put a Firebase service-account/private key in this frontend file.
 window.RESTAURANT_FIREBASE_CONFIG = {
-  apiKey: "PASTE_YOUR_FIREBASE_WEB_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_FIREBASE_APP_ID"
+  apiKey: "AIzaSyCxdwUENzAwzVC94aXkxm69uiud5IyGKj4",
+  authDomain: "miniature-restaurant.firebaseapp.com",
+  projectId: "miniature-restaurant",
+  storageBucket: "miniature-restaurant.firebasestorage.app",
+  messagingSenderId: "904359861415",
+  appId: "1:904359861415:web:9bc9eeec448d518f660f82"
 };
